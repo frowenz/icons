@@ -1,3 +1,32 @@
 # icons
 
-![](chrome.png)
+![](example.jpg)
+
+Icons:
+
+![](chrome.png =250x250)
+![](finder.png =250x250)
+![](vscode.png =250x250)
+![](notion.png)
+![](slack.png)
+![](wine.png)
+![](coldturkey.png)
+![](itunes.png)
+![](photoshop.png)
+![](spotify.png)
+![](zoom.png)
+![](adobeacrobat.png)
+![](messages.png)
+![](evernote.png)
+![](audiohijack.png)
+![](syspref.png)
+![](settings.png)
+![](downloads.png)
+![](steam.png)
+![](preview.png)
+![](dolphin.png)
+![](outlook.png)
+![](slippi.png)
+![](word.png)
+![](photoshop.png)
+![](discord.png)
