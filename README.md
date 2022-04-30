@@ -1,6 +1,8 @@
 # icons
 
 ![](example.jpg)
+
+Icons:
 ![](chrome.png)
 ![](finder.png)
 ![](vscode.png)
