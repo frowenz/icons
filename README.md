@@ -1,5 +1,4 @@
 # icons
-Icons:
 
 <img src="chrome.png" width="250" height="250">
 <img src="finder.png" width="250" height="250">
