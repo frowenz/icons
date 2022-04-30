@@ -1,3 +1,3 @@
 # icons
 
-(chrome.png)
+![](chrome.png)
